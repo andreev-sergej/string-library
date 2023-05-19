@@ -1,2 +1,1 @@
-# t5
-t5
+# Simple static string library
